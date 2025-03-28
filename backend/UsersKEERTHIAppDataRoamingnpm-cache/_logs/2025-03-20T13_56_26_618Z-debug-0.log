@@ -1,0 +1,13 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\KEERTHI\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.0.0
+2 info using node@v22.12.0
+3 silly config load:file:C:\Users\KEERTHI\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\ChatApp\backend\.npmrc
+5 silly config load:file:C:\Users\KEERTHI\.npmrc
+6 silly config load:file:C:\Users\KEERTHI\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run start
+8 verbose argv "run" "start"
+9 verbose logfile logs-max:10 dir:C:\ChatApp\backend\UsersKEERTHIAppDataRoamingnpm-cache\_logs\2025-03-20T13_56_26_618Z-
+10 verbose logfile C:\ChatApp\backend\UsersKEERTHIAppDataRoamingnpm-cache\_logs\2025-03-20T13_56_26_618Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
